@@ -27,26 +27,26 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta http-equiv="Content-Script-Type" content="text/javascript" />
 <meta http-equiv="Content-Style-Type" content="text/css" /> 
-<meta name="Description" content="イジェール語オンライン辞書" />
+<meta name="Description" content="ホタリ語オンライン辞書" />
 <meta name="keywords" content="人工言語,辞書," />
 <meta property="og:type" content="dictionary" />
-<meta property="og:title" content="イジェール語 オンライン辞書" />
-<meta property="og:description" content="イジェール語 オンライン辞書" />
-<meta property="og:url" content="https://zaslon.info/dict/dict.php" />
-<meta property="og:site_name" content="イジェール語 オンライン辞書" />
-<meta property="og:image" content="https://zaslon.info/wordpress/wp-content/uploads/2020/08/cropped-ZaslonI-1.png">
+<meta property="og:title" content="ホタリ語 オンライン辞書" />
+<meta property="og:description" content="ホタリ語 オンライン辞書" />
+<meta property="og:url" content="https://hotalic.info/dict/dict.php" />
+<meta property="og:site_name" content="ホタリ語 オンライン辞書" />
+<meta property="og:image" content="https://hotalic.info/wordpress/wp-content/uploads/2020/08/cropped-ZaslonI-1.png">
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@Zaslon" />
 <link rel="stylesheet" type="text/css" href="dict.css" />
 <link rel="shortcut icon" href="favicon.ico" />
 <link rel="icon" href="favicon.ico" />
-<title>イジェール語 オンライン辞書</title>
+<title>ホタリ語 オンライン辞書</title>
 </head>
 <body>
 <div class="all">
 	<div id="header">
 		
-		<h1>イジェール語 オンライン辞書</h1>
+		<h1>ホタリ語 オンライン辞書</h1>
 		<ul id="menu">
 			<li><a class="menu" href="https://zaslon.info/idyerin/%e6%a4%9c%e7%b4%a2%e4%bb%95%e6%a7%98/">検索仕様</a></li>
 			<li><a class="menu" href="https://zaslon.info/idyerin/%e8%be%9e%e6%9b%b8%e5%87%a1%e4%be%8b/">凡例</a></li>
@@ -152,7 +152,7 @@
 	<!--		<div class='buttonAndLabel'><input type="radio" name="type" id="c2" value="trans" <?php echo $checked_2; ?>><label for="c2">訳語検索</label></div> -->
 			<div class='buttonAndLabel'><input type="radio" name="type" id="c3" value="both" <?php echo $checked_3; ?>><label for="c3">見出し語・訳語検索</label></div>
 			<div class='buttonAndLabel'><input type="radio" name="type" id="c4" value="all" <?php echo $checked_4; ?>><label for="c4">全文検索</label></div>
-			<div class='buttonAndLabel'><input type="checkbox" name="Idf" id="c5" value="true" <?php echo $checked_5; ?>><label for="c5">イジェール文字表示</label></div>
+			<div class='buttonAndLabel'><input type="checkbox" name="Idf" id="c5" value="true" <?php echo $checked_5; ?>><label for="c5">ホタリク文字表示</label></div>
 			<div class='buttonAndLabel'><input type="radio" name="mode" id="c6" value="prt" <?php echo $checked_6; ?>><label for="c6">部分一致</label></div>
 	<!--		<div class='buttonAndLabel'><input type="radio" name="mode" id="c7" value="fwd" <?php echo $checked_7; ?>><label for="c7">前方一致</label></div> -->
 			<div class='buttonAndLabel'><input type="radio" name="mode" id="c8" value="perf" <?php echo $checked_8; ?>><label for="c8">完全一致</label></div>
@@ -412,7 +412,7 @@
 	
 	</div>
 	<div id="footer">
-		<p>&copy; 2010-<?php echo date('Y'); ?> Zaslon</p>
+		<p>&copy; ????-<?php echo date('Y'); ?> saka</p>
 	</div>
 </div>
 <script src="script.js"></script>
